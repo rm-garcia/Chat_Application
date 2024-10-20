@@ -3,7 +3,7 @@ import threading
 
 HOST = '127.0.0.1'
 PORT = 56787
-LISTENER_LIMIT = 6
+LISTENER_LIMIT = 10
 clients = {}
 usernames = {}
 
