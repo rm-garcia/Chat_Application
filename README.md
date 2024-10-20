@@ -22,6 +22,10 @@ Have added a new client implementation using Tkinter for a graphical user interf
 - User notifications: Users are notified when someone joins or leaves the chat.
 - Graphical user interface (GUI): A simple and user-friendly interface for the chat client.
 
+
+## SS
+[Screenshot of the project.](https://cdn.discordapp.com/attachments/758031911573520546/1297392950455828491/image.png?ex=6715c2d7&is=67147157&hm=06373596b29c6eed9ec371a0a761129c87d5231a2ce333877d63a8151520c250&)
+
 ## Technologies Used
 
 - Python 3.x
