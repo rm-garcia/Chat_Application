@@ -24,7 +24,7 @@ Have added a new client implementation using Tkinter for a graphical user interf
 
 
 ## SS
-[Screenshot of the project.](https://cdn.discordapp.com/attachments/758031911573520546/1297392950455828491/image.png?ex=6715c2d7&is=67147157&hm=06373596b29c6eed9ec371a0a761129c87d5231a2ce333877d63a8151520c250&)
+[Screenshot of the project.](https://ibb.co/d216TKX)
 
 ## Technologies Used
 
